@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-### I am a Research Associate working at ISB Institute of Data Sciences, ISB, Hyderabad. I have a Master’s in Computer Science from Stevens Institute of Technology, NJ, USA, and a PGD in Cyber Laws from NALSAR University, Hyderabad. I have 4 years of experience in the field of Data Science.
+### A Motivated professional driven to pursue academic and research excellence and consistently seeks to learn techniques that help maintain an excellent record as a teacher and researcher.
 
-#### ✨My primary research interests are Information Systems, Econometrics, and Clinical Data Analysis.✨ 
+#### ✨My primary research interests are Information Systems, Econometrics, Strategy, and Clinical Data Analysis.✨ 
